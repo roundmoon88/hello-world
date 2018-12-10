@@ -1,3 +1,3 @@
 # hello-world
-this is my first project on GitHub
-now, I made some changes here.
+This is my first project on GitHub. Added changes in the existing line
+Now, I made some changes here.
